@@ -2,7 +2,7 @@
   <id>org.javapro.helloplugins</id>
   <name>Hello World!</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="scherzo_16@hotmail.com" url="http://www.javapro.org">JavaPro</vendor>
 
   <description><![CDATA[
       Sample project that Illustrates one of the simplest plugins that can be made for<br>
